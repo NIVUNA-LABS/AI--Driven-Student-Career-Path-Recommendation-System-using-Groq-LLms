@@ -1,4 +1,4 @@
-# AI--Driven-Student-Career-Path-Recommendation-System-using-Groq-LLm-s
+# AI--Driven Student Career Path Recommendation System using Groq-LLms
 # 🚀 AI Career Path Recommendation System
 
 An AI-powered web application that helps students analyze their skills,
